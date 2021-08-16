@@ -7,5 +7,5 @@ _A fullstack developer here at LajwardCo._
 - 👯 I’m looking to collaborate on python3 projects.
 - 🤔 I’m looking for help with learning AI.
 - 💬 Ask me about anything you want to !
-- 📫 How to reach me: Instagram: @KhalidObaide, Telegram, Whatsapp: +93784260686.
+- 📫 How to reach me: Instagram: @KhalidObaide
 - ⚡ Fun fact: I love to chat with you! ❤️ ❤️ ❤️
