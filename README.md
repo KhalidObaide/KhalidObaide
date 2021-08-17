@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Khalid Obaide.
-_A fullstack developer here at LajwardCo._
+_A fullstack developer here at LajwardCo._\
+Visit my personal page on [Github Pages](https://khalidobaide.github.io).
 
 #### Let's know each other !!
 - 🔭 I’m currently working on a "Property Providing Service".
