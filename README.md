@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Khalid Obaide.
-_The senior software engineer and the so called tech-team-lead._\
-Visit my personal page on [Github Pages](https://khalidobaide.github.io).
 
 #### Let's know each other !!
 - 🔭 I’m currently working on a "Advanced chatbot" project.
