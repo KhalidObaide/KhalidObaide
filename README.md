@@ -11,10 +11,7 @@ Currently at **NexGenCloud**, where I design and ship the platform behind a GPU 
 * **Infrastructure:** Kubernetes, Docker, PostgreSQL, Redis, AWS/GCP, CI/CD
 
 ## Selected work
-
-- [**mapsi**](https://github.com/KhalidObaide/mapsi) — A* pathfinding visualizer with procedural dungeon generation (Vue)
-- [**chess**](https://github.com/KhalidObaide/chess) — chess engine and UI written from scratch in C++ with SDL, no game engine
-- [**rl-blob-ppo**](https://github.com/KhalidObaide/rl-blob-ppo) — PPO reinforcement learning agent on a custom environment (Python)
+- [**pgchat**] (https://github.com/KhalidObaide/pgchat) - Chat with your PostgreSQL databases in plain English — a hardened, read-only text-to-SQL tool that generates SQL, auto-charts results, and provably never runs a write.
 
 
 ## Contact
