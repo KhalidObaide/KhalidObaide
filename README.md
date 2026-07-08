@@ -11,7 +11,7 @@ Currently at **NexGenCloud**, where I design and ship the platform behind a GPU 
 * **Infrastructure:** Kubernetes, Docker, PostgreSQL, Redis, AWS/GCP, CI/CD
 
 ## Selected work
-- [**pgchat**] (https://github.com/KhalidObaide/pgchat) - Chat with your PostgreSQL databases in plain English — a hardened, read-only text-to-SQL tool that generates SQL, auto-charts results, and provably never runs a write.
+- [**pgchat**](https://github.com/KhalidObaide/pgchat) - Chat with your PostgreSQL databases in plain English — a hardened, read-only text-to-SQL tool that generates SQL, auto-charts results, and provably never runs a write.
 
 
 ## Contact
