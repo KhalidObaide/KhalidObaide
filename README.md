@@ -13,6 +13,7 @@ Currently at **NexGenCloud**, where I design and ship the platform behind a GPU 
 ## Selected work
 - [**pgchat**](https://github.com/KhalidObaide/pgchat) - Chat with your PostgreSQL databases in plain English — a hardened, read-only text-to-SQL tool that generates SQL, auto-charts results, and provably never runs a write.
 - [**proxima**](https://github.com/KhalidObaide/proxima) - A from-scratch HNSW vector-search engine in modern C++ with Python bindings — approximate-nearest-neighbor search that benchmarks within striking distance of hnswlib, built to understand the algorithm, not just call it.
+- [**uplift-rag](https://github.com/KhalidObaide/uplift-rag) - Quantifying how much RAG actually improves LLM answers, end to end.
 
 
 ## Contact
